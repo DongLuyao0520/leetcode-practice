@@ -1,5 +1,5 @@
 # LeetCode Practice
-This repository records my algorithm practice with Python.
+This repository records my algorithm practice with Python and Java.
 
 ## About
 I am a computer science undergraduate student at Jinan University.
@@ -14,4 +14,4 @@ I practice data structures and algorithms for technical interviews and postgradu
 - Binary Search
 
 ## Notes
-Each Python file contains my solution and thinking notes for the corresponding LeetCode problem.
+Each file contains my solution and thinking notes for the corresponding LeetCode problem,impiemented in Python and Java.
